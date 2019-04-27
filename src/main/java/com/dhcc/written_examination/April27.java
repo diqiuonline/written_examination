@@ -23,6 +23,6 @@ public class April27 {
     static synchronized void Sogou(){
         System.out.println("Sougo");
     }
-
+//测试
 
 }

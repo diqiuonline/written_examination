@@ -16,8 +16,8 @@ public class April27 {
                 Sogou();
             }
         };
-        //t.run();
-        t.start();
+        t.run();
+        //t.start();
         System.out.println("hello");
     }
     static synchronized void Sogou(){

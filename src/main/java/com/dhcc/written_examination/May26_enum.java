@@ -7,7 +7,7 @@ package com.dhcc.written_examination;
  * 枚举类型里面有三个实体类型，所以构造方法执行了三次，调用了AccountType.FIXED返回的是tostring
  * 在枚举类型中该方法重写了，返回的是name，所以是FIXED
  */
-public class May27_enum {
+public class May26_enum {
     public static void main(String[] args) {
         System.out.println(AccountType.FIXED);
     }

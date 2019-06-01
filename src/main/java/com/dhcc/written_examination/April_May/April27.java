@@ -1,4 +1,4 @@
-package com.dhcc.written_examination;
+package com.dhcc.written_examination.April_May;
 
 /**
  * synchronized 干扰信息 synchronized是多线程

@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="294d9aa5-8f3f-4791-9959-e0781f6b9558" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June1_symbol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May12_static_bilibili_Integer_volatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May12_static_bilibili_Integer_volatile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May17_thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May17_thread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May18_for_static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May18_for_static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May1_FileChunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May1_FileChunk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May20_static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May20_static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May21_extend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May21_extend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May22_thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May22_thread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May26_enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May26_enum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May27_string_intern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May27_string_intern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May28_Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May28_Static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May5_Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May5_Static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May9_ProcessBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May9_ProcessBuilder.java" afterDir="false" />
+    <list default="true" id="294d9aa5-8f3f-4791-9959-e0781f6b9558" name="Default Changelist" comment="May28_Static">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June24_for.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April22.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April24.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,12 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April27.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="250">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="e#622#623#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -95,7 +66,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May9_ProcessBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="250">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -107,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May12_static_bilibili_Integer_volatile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="425">
               <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
@@ -116,17 +87,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May17_thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="175">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June1_symbol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+            <state relative-caret-position="150">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June24_for.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -163,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/May28_Static.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May28_Static.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June1_symbol.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June24_for.java" />
       </list>
     </option>
   </component>
@@ -194,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,7 +223,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.June1_symbol">
+  <component name="RunManager" selected="Application.June24_for">
     <configuration name="June1_symbol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dhcc.written_examination.June.June1_symbol" />
       <module name="written_examination" />
@@ -292,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="May22_thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dhcc.written_examination.April_May.May22_thread" />
+    <configuration name="June24_for" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dhcc.written_examination.June.June24_for" />
       <module name="written_examination" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dhcc.written_examination.April_May.*" />
+          <option name="PATTERN" value="com.dhcc.written_examination.June.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,11 +327,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.June24_for" />
         <item itemvalue="Application.June1_symbol" />
         <item itemvalue="Application.May28_Static" />
         <item itemvalue="Application.May27_string_intern" />
         <item itemvalue="Application.May26_enum" />
-        <item itemvalue="Application.May22_thread" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +367,9 @@
       <workItem from="1559092733698" duration="10000" />
       <workItem from="1559141929128" duration="163000" />
       <workItem from="1559179619649" duration="6000" />
-      <workItem from="1559407587074" duration="569000" />
+      <workItem from="1559407587074" duration="995000" />
+      <workItem from="1559545555850" duration="17000" />
+      <workItem from="1561309627603" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="ProcessBuilder">
       <created>1557418128600</created>
@@ -455,13 +438,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10414000" />
+    <option name="totallyTimeSpent" value="11449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33097687" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33547556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -471,7 +453,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16346154" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31043956" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -607,12 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April27.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="250">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -632,7 +610,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May9_ProcessBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="250">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -642,22 +620,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May12_static_bilibili_Integer_volatile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="425">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May17_thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="175">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June1_symbol.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        <state relative-caret-position="150">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June24_for.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="294d9aa5-8f3f-4791-9959-e0781f6b9558" name="Default Changelist" comment="May28_Static">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June24_for.java" afterDir="false" />
+    <list default="true" id="294d9aa5-8f3f-4791-9959-e0781f6b9558" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June26_try_finally.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -18,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April24.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April26.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,11 +93,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June24_for.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="100">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June26_try_finally.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -144,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/May28_Static.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June1_symbol.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June24_for.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June26_try_finally.java" />
       </list>
     </option>
   </component>
@@ -175,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,6 +223,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.June24_for">
+  <component name="RunManager" selected="Application.June26_try_finally">
     <configuration name="June1_symbol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dhcc.written_examination.June.June1_symbol" />
       <module name="written_examination" />
@@ -286,12 +287,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="May26_enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dhcc.written_examination.April_May.May26_enum" />
+    <configuration name="June26_try_finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dhcc.written_examination.June.June26_try_finally" />
       <module name="written_examination" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dhcc.written_examination.April_May.*" />
+          <option name="PATTERN" value="com.dhcc.written_examination.June.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.June26_try_finally" />
         <item itemvalue="Application.June24_for" />
         <item itemvalue="Application.June1_symbol" />
         <item itemvalue="Application.May28_Static" />
         <item itemvalue="Application.May27_string_intern" />
-        <item itemvalue="Application.May26_enum" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +370,8 @@
       <workItem from="1559179619649" duration="6000" />
       <workItem from="1559407587074" duration="995000" />
       <workItem from="1559545555850" duration="17000" />
-      <workItem from="1561309627603" duration="592000" />
+      <workItem from="1561309627603" duration="739000" />
+      <workItem from="1561479244093" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="ProcessBuilder">
       <created>1557418128600</created>
@@ -434,16 +436,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559061865812</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="June24_for">
+      <created>1561310354470</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1561310354470</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11449000" />
+    <option name="totallyTimeSpent" value="11964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33547556" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33997428" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -492,7 +502,8 @@
     <MESSAGE value="May27_enum" />
     <MESSAGE value="May27_string_intern" />
     <MESSAGE value="May28_Static" />
-    <option name="LAST_COMMIT_MESSAGE" value="May28_Static" />
+    <MESSAGE value="June24_for" />
+    <option name="LAST_COMMIT_MESSAGE" value="June24_for" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/dd.java" />
@@ -641,8 +652,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June24_for.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="100">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June26_try_finally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
         </state>
       </provider>
     </entry>

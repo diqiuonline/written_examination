@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="294d9aa5-8f3f-4791-9959-e0781f6b9558" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June26_try_finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June28_inner_class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -18,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April26.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/April_May/April27.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,11 +93,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June26_try_finally.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June28_inner_class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,6 +155,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June1_symbol.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June24_for.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June26_try_finally.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June28_inner_class.java" />
       </list>
     </option>
   </component>
@@ -176,6 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,7 +235,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.June26_try_finally">
+  <component name="RunManager" selected="Application.June28_inner_class">
     <configuration name="June1_symbol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dhcc.written_examination.June.June1_symbol" />
       <module name="written_examination" />
@@ -300,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="May27_string_intern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dhcc.written_examination.April_May.May27_string_intern" />
+    <configuration name="June28_inner_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dhcc.written_examination.June.June28_inner_class" />
       <module name="written_examination" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dhcc.written_examination.April_May.*" />
+          <option name="PATTERN" value="com.dhcc.written_examination.June.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,11 +339,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.June28_inner_class" />
         <item itemvalue="Application.June26_try_finally" />
         <item itemvalue="Application.June24_for" />
         <item itemvalue="Application.June1_symbol" />
         <item itemvalue="Application.May28_Static" />
-        <item itemvalue="Application.May27_string_intern" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +382,8 @@
       <workItem from="1559407587074" duration="995000" />
       <workItem from="1559545555850" duration="17000" />
       <workItem from="1561309627603" duration="739000" />
-      <workItem from="1561479244093" duration="368000" />
+      <workItem from="1561479244093" duration="449000" />
+      <workItem from="1561654809937" duration="978000" />
     </task>
     <task id="LOCAL-00001" summary="ProcessBuilder">
       <created>1557418128600</created>
@@ -443,17 +455,24 @@
       <option name="project" value="LOCAL" />
       <updated>1561310354470</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="June26_try_finally">
+      <created>1561479627155</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561479627155</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11964000" />
+    <option name="totallyTimeSpent" value="13023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33997428" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.344473" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -463,7 +482,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31043956" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31043956" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -503,7 +522,8 @@
     <MESSAGE value="May27_string_intern" />
     <MESSAGE value="May28_Static" />
     <MESSAGE value="June24_for" />
-    <option name="LAST_COMMIT_MESSAGE" value="June24_for" />
+    <MESSAGE value="June26_try_finally" />
+    <option name="LAST_COMMIT_MESSAGE" value="June26_try_finally" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/dd.java" />
@@ -661,6 +681,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dhcc/written_examination/June/June28_inner_class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

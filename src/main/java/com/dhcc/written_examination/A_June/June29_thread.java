@@ -1,4 +1,4 @@
-package com.dhcc.written_examination.June;
+package com.dhcc.written_examination.A_June;
 
 import java.util.ArrayList;
 import java.util.List;

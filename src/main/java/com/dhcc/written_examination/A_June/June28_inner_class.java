@@ -1,4 +1,4 @@
-package com.dhcc.written_examination.June;
+package com.dhcc.written_examination.A_June;
 
 /**
  * new一个内部内 会调用构造器 子类调用父类的构造器 执行test方法 应为子类重写了test方法
